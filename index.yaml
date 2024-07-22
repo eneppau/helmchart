@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  myhelmchart:
+  - apiVersion: v2
+    appVersion: 1.16.1
+    created: "2024-07-22T09:32:55.398042645Z"
+    description: A Helm chart for Kubernetes
+    digest: f4f6da9820ef10644938abf7bfab2c5460bd75e45ba5bb86d54c91fe82c8bf0a
+    name: myhelmchart
+    type: application
+    urls:
+    - https://eneppau.github.io/helmchart/myhelmchart-0.1.1.tgz
+    version: 0.1.1
+generated: "2024-07-22T09:32:55.397586129Z"
